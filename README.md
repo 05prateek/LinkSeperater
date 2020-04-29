@@ -2,6 +2,15 @@
 this simple project seperates website names and links into two different files
 
 ---
+---
+
+## Prerequisites
+
+- [python3](https://www.python.org/downloads/)
+
+
+---
+
 ## Setup Guide 
 
 To download and run this program on your local dev server run:
